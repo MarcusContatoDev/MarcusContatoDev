@@ -1,5 +1,4 @@
 ## Olá, me chamo Marcus ! 
-### Bem vindo ao meu perfil GitHub 👋
 
 
 - 🔭 Atualmente estou trabalhando em Front-end e Back-end.
