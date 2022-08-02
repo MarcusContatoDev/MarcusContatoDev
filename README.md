@@ -20,7 +20,7 @@
    <img align="center" alt="Marcus-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Marcus-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
    <img align="center" alt="Marcus-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-
-  
 </div>  
   
+  
+ ![snake gif](https://github.com/MarcusContatoDev/MarcusContatoDev/blob/output/github-contribution-grid-snake.svg)
