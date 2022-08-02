@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em Front-end e Back-end.
 - 🌱 Atualmente estou aprendendo 
-- 👯 Estou procurando colaborar em 
+- 👯 Estou procurando colaborar com meus conhecimentos é aprender com meus erros.  
 - ⚡ Curiosidade: Me dou muito bem em equipe.
 
 ##
