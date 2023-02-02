@@ -1,10 +1,6 @@
 ## Olá, me chamo Marcus ! 
+- ⚡ Estou procurando colaborar com meus conhecimentos e aprender com meus erros.  
 
-
-- 🔭 Atualmente estou trabalhando em Front-end e Back-end.
-- 🌱 Atualmente estou aprendendo. 
-- 👯 Estou procurando colaborar com meus conhecimentos e aprender com meus erros.  
-- ⚡ Curiosidade: Me dou muito bem em equipe.
 
 ##
 
